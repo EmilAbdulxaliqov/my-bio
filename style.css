@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(207, 203, 203);
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+#first{
+    float: left;
+    margin-left: 100px;
+}
+img{
+    float: left;
+    margin-right: 10px;
+}
+#second{
+    float: right;
+    margin-right: 200px;
+    line-height: 30px;
+}
+a{
+    color: rgb(246, 76, 76);
+}
